@@ -1,3 +1,4 @@
 # newku
-easy yingyong
+easy application
 hello world
+:joy:
